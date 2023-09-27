@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+![1*E_4l9LlQblmBk6HCBJB2Sg](https://github.com/kyyneogs/react-training/assets/121914754/004c594d-a127-4e8f-95f5-1cf19a36c151)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
